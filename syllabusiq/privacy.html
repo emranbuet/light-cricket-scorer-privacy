@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy – SyllabusIQ</title>
+<style>body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.6;color:#222;max-width:720px;margin:0 auto;padding:24px 16px;}h1{font-size:1.6em;color:#1b5e20}h2{font-size:1.2em;margin-top:1.6em;color:#2e7d32}code{background:#f2f2f2;padding:1px 4px;border-radius:3px;word-break:break-all}a{color:#1565c0}</style>
+</head><body>
+<h1>Privacy Policy for SyllabusIQ</h1>
+<p><strong>Effective date:</strong> November 18, 2026</p>
+<p>This privacy policy explains how the mobile app <strong>SyllabusIQ</strong> (package <code>com.techfinspecial.syllabusiq</code>), developed by Emran Chowdhury, handles your information. SyllabusIQ reads a course syllabus, pulls out the grading weights and due dates, and helps you track your grades and plan what you need on the remaining work.</p>
+
+<h2>No accounts</h2>
+<p>SyllabusIQ has no sign-up or sign-in. When you first open the app, it creates a random ID on your device. This ID is not tied to your name, email, or any other personal details.</p>
+
+<h2>Data that stays on your device</h2>
+<p>Your courses, grading categories, assignments, scores, semesters, settings, and reminders are stored only in the app's local database on your device. We do not upload them to our servers. If you turn on calendar sync, the app adds your due dates to a separate SyllabusIQ calendar on your device. Deadline reminders are local notifications scheduled on your device. On Android, home-screen widgets read the same local data.</p>
+<p>If you delete the app, this data is deleted with it.</p>
+
+<h2>AI syllabus import</h2>
+<p>If you use AI import, the app asks for your permission first. Then the syllabus PDF or the photos you choose are sent to our parsing server (a Supabase Edge Function), which sends them to Google's Gemini API to extract the course details: course name and code, instructor, grade scale, grading categories, drop rules, and assignment titles and due dates. The extracted details are returned to your device for you to review and edit before anything is saved.</p>
+<ul>
+<li>We do not store your syllabus file or photos after processing, and we do not keep the extracted results on our server.</li>
+<li>The request is not linked to your identity. Along with the document, the app sends its random device ID, which is used only to limit how many scans can be made in a short time.</li>
+<li>Google processes the content under its Gemini API terms.</li>
+<li>Like most web services, our hosting provider may briefly log technical request details such as IP address and time to keep the service running and secure.</li>
+</ul>
+<p>You can always skip AI import and enter a course by hand. Nothing is sent anywhere in that case.</p>
+
+<h2>Purchases</h2>
+<p>Paid passes are bought through Apple's App Store or Google Play and managed through RevenueCat. RevenueCat receives the app's random ID and your purchase information from Apple or Google so it can unlock your pass. We never see your card or payment details.</p>
+
+<h2>What we don't do</h2>
+<ul>
+<li>No ads.</li>
+<li>No analytics, tracking, or crash-reporting SDKs.</li>
+<li>No access to the Advertising ID.</li>
+<li>We do not sell or share your data for advertising.</li>
+</ul>
+
+<h2>Permissions</h2>
+<ul>
+<li><strong>Camera:</strong> only to scan printed syllabus pages when you choose to.</li>
+<li><strong>Photos:</strong> only to pick photos of syllabus pages that you choose.</li>
+<li><strong>Calendar:</strong> only to add and update your due dates in the SyllabusIQ calendar, if you turn on calendar sync.</li>
+<li><strong>Notifications:</strong> only for local deadline reminders.</li>
+</ul>
+
+<h2>Service providers</h2>
+<ul>
+<li><strong>Supabase</strong> hosts the parsing server.</li>
+<li><strong>Google (Gemini API)</strong> does the AI extraction, as described above.</li>
+<li><strong>RevenueCat</strong> manages purchase status.</li>
+<li><strong>Apple and Google</strong> process payments for in-app purchases under their own policies.</li>
+</ul>
+
+<h2>Children's privacy</h2>
+<p>SyllabusIQ is a study tool for students. It is not directed to children under 13, and we do not knowingly collect personal information from children under 13.</p>
+
+<h2>Changes to this policy</h2>
+<p>If this policy changes, the updated version will be posted at this location with a new effective date.</p>
+
+<h2>Contact</h2>
+<p>If you have questions about this policy, contact Emran Chowdhury at <a href="mailto:emranbuet2002@gmail.com">emranbuet2002@gmail.com</a>.</p>
+<p><a href="support.html">Support</a></p>
+</body></html>
