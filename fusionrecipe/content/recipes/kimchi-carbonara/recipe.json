@@ -1,0 +1,113 @@
+{
+  "slug": "kimchi-carbonara",
+  "title": "Kimchi Carbonara",
+  "description": "Roman carbonara meets Korean kimchi: silky egg-yolk sauce, smoky bacon and a tangy, spicy crunch.",
+  "cuisines": [
+    "Korean",
+    "Italian"
+  ],
+  "servings": 2,
+  "prepMinutes": 10,
+  "cookMinutes": 15,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "weeknight"
+  ],
+  "status": "published",
+  "ingredients": [
+    {
+      "id": "i1",
+      "name": "Spaghetti",
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "id": "i2",
+      "name": "Thick-cut bacon",
+      "quantity": 100,
+      "unit": "g",
+      "note": "cut into strips"
+    },
+    {
+      "id": "i3",
+      "name": "Kimchi",
+      "quantity": 120,
+      "unit": "g",
+      "note": "chopped, plus 2 tbsp juice"
+    },
+    {
+      "id": "i4",
+      "name": "Egg yolks",
+      "quantity": 3
+    },
+    {
+      "id": "i5",
+      "name": "Parmesan",
+      "quantity": 40,
+      "unit": "g",
+      "note": "finely grated"
+    },
+    {
+      "id": "i6",
+      "name": "Gochugaru",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": "i7",
+      "name": "Scallion",
+      "quantity": 1,
+      "note": "thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "id": "s1",
+      "title": "Boil the pasta",
+      "instruction": "Bring a large pot of salted water to a boil and cook the spaghetti until al dente. Save a mug of the starchy pasta water before draining.",
+      "durationSeconds": 600,
+      "ingredientIds": [
+        "i1"
+      ]
+    },
+    {
+      "id": "s2",
+      "title": "Crisp the bacon",
+      "instruction": "Cook the bacon strips in a wide pan over medium heat until golden and crisp. Leave the fat in the pan.",
+      "durationSeconds": 360,
+      "ingredientIds": [
+        "i2"
+      ]
+    },
+    {
+      "id": "s3",
+      "title": "Caramelise the kimchi",
+      "instruction": "Add the chopped kimchi to the bacon fat and fry for 3 minutes until the edges caramelise. Stir in the kimchi juice.",
+      "durationSeconds": 180,
+      "ingredientIds": [
+        "i3"
+      ]
+    },
+    {
+      "id": "s4",
+      "title": "Whisk the sauce",
+      "instruction": "Whisk the egg yolks, Parmesan and gochugaru in a bowl with two tablespoons of hot pasta water until smooth.",
+      "ingredientIds": [
+        "i4",
+        "i5",
+        "i6"
+      ]
+    },
+    {
+      "id": "s5",
+      "title": "Toss off the heat",
+      "instruction": "Take the pan off the heat, add the drained spaghetti, then pour in the egg mixture and toss quickly, adding pasta water until glossy. Top with scallion.",
+      "ingredientIds": [
+        "i7"
+      ]
+    }
+  ],
+  "createdAt": "2026-11-21T21:38:57.425Z",
+  "updatedAt": "2026-11-21T21:38:57.466Z"
+}

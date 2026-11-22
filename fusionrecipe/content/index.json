@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-11-21T21:39:13.409Z",
+  "recipes": [
+    {
+      "slug": "kimchi-carbonara",
+      "title": "Kimchi Carbonara",
+      "description": "Roman carbonara meets Korean kimchi: silky egg-yolk sauce, smoky bacon and a tangy, spicy crunch.",
+      "cuisines": [
+        "Korean",
+        "Italian"
+      ],
+      "difficulty": "easy",
+      "totalMinutes": 25,
+      "stepCount": 5,
+      "animationsReady": 0,
+      "updatedAt": "2026-11-21T21:38:57.466Z"
+    }
+  ]
+}
