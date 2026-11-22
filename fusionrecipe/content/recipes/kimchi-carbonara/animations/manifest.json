@@ -1,0 +1,38 @@
+{
+  "s1": {
+    "status": "ready",
+    "file": "animations/s1.json",
+    "bytes": 17720,
+    "sourceHash": "5f3160b1314c0b3f",
+    "model": "claude-opus-5-5",
+    "generatedAt": "2026-11-22T01:12:31.969Z"
+  },
+  "s2": {
+    "status": "ready",
+    "file": "animations/s2.json",
+    "bytes": 21695,
+    "sourceHash": "0a45a96cb1cdb245",
+    "model": "claude-opus-5-5",
+    "generatedAt": "2026-11-22T01:12:32.006Z"
+  },
+  "s3": {
+    "status": "ready",
+    "file": "animations/s3.json",
+    "bytes": 24048,
+    "sourceHash": "85963a7013647e49",
+    "model": "claude-opus-5-5",
+    "generatedAt": "2026-11-22T01:12:32.007Z"
+  },
+  "s4": {
+    "status": "failed",
+    "sourceHash": "830c68582d08fd19",
+    "generatedAt": "2026-11-22T01:15:25.985Z",
+    "error": "{\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChH5hNeCq3iAMJZQkzN6g\"}"
+  },
+  "s5": {
+    "status": "failed",
+    "sourceHash": "77739c33562ae1be",
+    "generatedAt": "2026-11-22T01:15:53.616Z",
+    "error": "{\"type\":\"error\",\"error\":{\"details\":null,\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_id\":\"req_011ChH5jQjm7nEKsjT8yvXxg\"}"
+  }
+}
