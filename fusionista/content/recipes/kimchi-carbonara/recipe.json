@@ -69,7 +69,8 @@
       "durationSeconds": 600,
       "ingredientIds": [
         "i1"
-      ]
+      ],
+      "imageQuery": "boiling pasta pot"
     },
     {
       "id": "s2",
@@ -78,7 +79,8 @@
       "durationSeconds": 360,
       "ingredientIds": [
         "i2"
-      ]
+      ],
+      "imageQuery": "frying bacon pan"
     },
     {
       "id": "s3",
@@ -87,7 +89,8 @@
       "durationSeconds": 180,
       "ingredientIds": [
         "i3"
-      ]
+      ],
+      "imageQuery": "kimchi"
     },
     {
       "id": "s4",
@@ -97,7 +100,8 @@
         "i4",
         "i5",
         "i6"
-      ]
+      ],
+      "imageQuery": "whisking egg yolks"
     },
     {
       "id": "s5",
@@ -105,9 +109,11 @@
       "instruction": "Take the pan off the heat, add the drained spaghetti, then pour in the egg mixture and toss quickly, adding pasta water until glossy. Top with scallion.",
       "ingredientIds": [
         "i7"
-      ]
+      ],
+      "imageQuery": "carbonara pasta plate"
     }
   ],
   "createdAt": "2026-11-21T21:38:57.425Z",
-  "updatedAt": "2026-11-21T21:38:57.466Z"
+  "updatedAt": "2026-11-22T05:15:36.653Z",
+  "imageQuery": "carbonara pasta"
 }

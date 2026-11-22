@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T05:07:10.706Z",
+  "generatedAt": "2026-11-22T05:15:37.222Z",
   "recipes": [
     {
       "slug": "kimchi-carbonara",
@@ -12,9 +12,8 @@
       "difficulty": "easy",
       "totalMinutes": 25,
       "stepCount": 5,
-      "animationsReady": 3,
-      "coverAnimation": "animations/s1.json",
-      "updatedAt": "2026-11-21T21:38:57.466Z"
+      "imagesReady": 0,
+      "updatedAt": "2026-11-22T05:15:36.653Z"
     }
   ]
 }
