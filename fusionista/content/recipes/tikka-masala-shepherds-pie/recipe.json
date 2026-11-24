@@ -1,0 +1,192 @@
+{
+  "slug": "tikka-masala-shepherds-pie",
+  "title": "Tikka Masala Shepherd's Pie",
+  "description": "A British shepherd's pie with an Indian tikka masala filling: spiced chicken simmered in a tomato-butter sauce, baked under a blanket of buttery mashed potatoes.",
+  "cuisines": [
+    "Indian",
+    "British"
+  ],
+  "servings": 4,
+  "prepMinutes": 20,
+  "cookMinutes": 45,
+  "difficulty": "medium",
+  "tags": [
+    "bake",
+    "chicken",
+    "comfort"
+  ],
+  "status": "published",
+  "imageQuery": "shepherds pie casserole",
+  "ingredients": [
+    {
+      "id": "i1",
+      "name": "Floury potatoes",
+      "quantity": 900,
+      "unit": "g",
+      "note": "peeled and cut into chunks"
+    },
+    {
+      "id": "i2",
+      "name": "Unsalted butter",
+      "quantity": 60,
+      "unit": "g",
+      "note": "plus 2 tbsp for the sauce"
+    },
+    {
+      "id": "i3",
+      "name": "Whole milk",
+      "quantity": 80,
+      "unit": "ml",
+      "note": "warm"
+    },
+    {
+      "id": "i4",
+      "name": "Boneless chicken thighs",
+      "quantity": 600,
+      "unit": "g",
+      "note": "cut into 3 cm pieces"
+    },
+    {
+      "id": "i5",
+      "name": "Onion",
+      "quantity": 1,
+      "note": "finely chopped"
+    },
+    {
+      "id": "i6",
+      "name": "Garlic",
+      "quantity": 3,
+      "note": "cloves, minced"
+    },
+    {
+      "id": "i7",
+      "name": "Fresh ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "note": "minced"
+    },
+    {
+      "id": "i8",
+      "name": "Garam masala",
+      "quantity": 2,
+      "unit": "tsp"
+    },
+    {
+      "id": "i9",
+      "name": "Ground cumin",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": "i10",
+      "name": "Ground turmeric",
+      "quantity": 0.5,
+      "unit": "tsp"
+    },
+    {
+      "id": "i11",
+      "name": "Kashmiri chili powder",
+      "quantity": 1,
+      "unit": "tsp",
+      "note": "or 1/2 tsp mild paprika plus a pinch of cayenne"
+    },
+    {
+      "id": "i12",
+      "name": "Tomato pur\u00e9e",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": "i13",
+      "name": "Canned crushed tomatoes",
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "id": "i14",
+      "name": "Heavy cream",
+      "quantity": 80,
+      "unit": "ml"
+    },
+    {
+      "id": "i15",
+      "name": "Plain yogurt",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": "i16",
+      "name": "Cilantro",
+      "quantity": 1,
+      "note": "small handful, chopped"
+    }
+  ],
+  "steps": [
+    {
+      "id": "s1",
+      "title": "Boil the potatoes",
+      "instruction": "Cover the potatoes with salted water, bring to a boil and cook until completely tender, 12\u201315 minutes. Drain well, then mash with 60 g butter and the warm milk. Season with salt and pepper and set aside.",
+      "durationSeconds": 900,
+      "ingredientIds": [
+        "i1",
+        "i2",
+        "i3"
+      ],
+      "imageQuery": "mashed potatoes bowl"
+    },
+    {
+      "id": "s2",
+      "title": "Brown the chicken",
+      "instruction": "Heat a tablespoon of the remaining butter in a wide ovenproof pan or deep skillet over medium-high heat. Season the chicken with salt and brown it in batches until golden, about 5 minutes. Lift it out onto a plate; it does not need to be cooked through.",
+      "durationSeconds": 360,
+      "ingredientIds": [
+        "i4",
+        "i2"
+      ],
+      "imageQuery": "browning chicken thighs pan"
+    },
+    {
+      "id": "s3",
+      "title": "Cook the masala",
+      "instruction": "Lower the heat to medium, add the last of the butter and the onion, and cook until soft, about 6 minutes. Stir in the garlic, ginger, garam masala, cumin, turmeric and chili powder for 1 minute, then the tomato pur\u00e9e for 30 seconds.",
+      "durationSeconds": 480,
+      "ingredientIds": [
+        "i5",
+        "i6",
+        "i7",
+        "i8",
+        "i9",
+        "i10",
+        "i11",
+        "i12"
+      ],
+      "imageQuery": "onion garlic spices pan"
+    },
+    {
+      "id": "s4",
+      "title": "Simmer the filling",
+      "instruction": "Pour in the crushed tomatoes and a splash of water, return the chicken and any juices, and simmer 10 minutes until the sauce is thick and the chicken is cooked through. Stir in the cream and yogurt, taste for salt, and take off the heat. Sprinkle in most of the cilantro.",
+      "durationSeconds": 720,
+      "ingredientIds": [
+        "i13",
+        "i14",
+        "i15",
+        "i16",
+        "i4"
+      ],
+      "imageQuery": "chicken tikka masala pot"
+    },
+    {
+      "id": "s5",
+      "title": "Bake the pie",
+      "instruction": "Heat the oven to 200\u00b0C (400\u00b0F). If the pan is not ovenproof, tip the filling into a baking dish. Spoon the mash over the top, rough it up with a fork, and bake 20\u201325 minutes until the peaks are golden and the filling is bubbling. Rest 5 minutes and finish with the remaining cilantro.",
+      "durationSeconds": 1500,
+      "ingredientIds": [
+        "i1"
+      ],
+      "imageQuery": "shepherds pie baked"
+    }
+  ],
+  "createdAt": "2026-11-24T10:28:08.000Z",
+  "updatedAt": "2026-11-24T10:28:08.000Z"
+}

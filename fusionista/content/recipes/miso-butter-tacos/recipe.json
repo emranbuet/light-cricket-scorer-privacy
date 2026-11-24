@@ -1,0 +1,152 @@
+{
+  "slug": "miso-butter-tacos",
+  "title": "Miso Butter Tacos",
+  "description": "Japanese miso butter meets a Mexican taco night: roasted sweet potatoes glazed in salty-sweet miso butter, tucked into warm corn tortillas with lime cabbage.",
+  "cuisines": [
+    "Japanese",
+    "Mexican"
+  ],
+  "servings": 4,
+  "prepMinutes": 15,
+  "cookMinutes": 25,
+  "difficulty": "easy",
+  "tags": [
+    "tacos",
+    "weeknight",
+    "vegetarian"
+  ],
+  "status": "published",
+  "imageQuery": "sweet potato tacos",
+  "ingredients": [
+    {
+      "id": "i1",
+      "name": "Sweet potatoes",
+      "quantity": 2,
+      "note": "about 500 g, peeled and cut into 2 cm cubes"
+    },
+    {
+      "id": "i2",
+      "name": "Neutral oil",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": "i3",
+      "name": "White miso",
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "id": "i4",
+      "name": "Unsalted butter",
+      "quantity": 3,
+      "unit": "tbsp",
+      "note": "softened"
+    },
+    {
+      "id": "i5",
+      "name": "Soy sauce",
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "id": "i6",
+      "name": "Corn tortillas",
+      "quantity": 8
+    },
+    {
+      "id": "i7",
+      "name": "Green cabbage",
+      "quantity": 150,
+      "unit": "g",
+      "note": "finely shredded"
+    },
+    {
+      "id": "i8",
+      "name": "Limes",
+      "quantity": 2,
+      "note": "one juiced, one cut into wedges"
+    },
+    {
+      "id": "i9",
+      "name": "Cilantro",
+      "quantity": 1,
+      "note": "small handful, leaves picked"
+    },
+    {
+      "id": "i10",
+      "name": "Scallions",
+      "quantity": 2,
+      "note": "thinly sliced"
+    },
+    {
+      "id": "i11",
+      "name": "Toasted sesame seeds",
+      "quantity": 1,
+      "unit": "tsp"
+    }
+  ],
+  "steps": [
+    {
+      "id": "s1",
+      "title": "Roast the sweet potatoes",
+      "instruction": "Heat the oven to 220\u00b0C (425\u00b0F). Toss the sweet potato cubes with the oil and a pinch of salt on a baking sheet and roast for 20\u201325 minutes, turning once, until browned at the edges and tender.",
+      "durationSeconds": 1500,
+      "ingredientIds": [
+        "i1",
+        "i2"
+      ],
+      "imageQuery": "roasted sweet potato cubes"
+    },
+    {
+      "id": "s2",
+      "title": "Make the miso butter",
+      "instruction": "Mash the white miso into the softened butter with the soy sauce until smooth. Taste: it should be salty, rich and a little sweet.",
+      "durationSeconds": 180,
+      "ingredientIds": [
+        "i3",
+        "i4",
+        "i5"
+      ],
+      "imageQuery": "miso paste bowl"
+    },
+    {
+      "id": "s3",
+      "title": "Glaze the potatoes",
+      "instruction": "As soon as the tray comes out of the oven, add the miso butter and toss so it melts over the hot potatoes and coats every cube.",
+      "durationSeconds": 60,
+      "ingredientIds": [
+        "i1",
+        "i3",
+        "i4"
+      ],
+      "imageQuery": "butter melting vegetables"
+    },
+    {
+      "id": "s4",
+      "title": "Warm the tortillas",
+      "instruction": "Heat a dry skillet over medium-high heat and warm the corn tortillas for 20\u201330 seconds a side until pliable and lightly spotted. Keep them wrapped in a clean towel.",
+      "durationSeconds": 240,
+      "ingredientIds": [
+        "i6"
+      ],
+      "imageQuery": "corn tortillas skillet"
+    },
+    {
+      "id": "s5",
+      "title": "Assemble the tacos",
+      "instruction": "Toss the cabbage with the juice of one lime and a pinch of salt. Fill each tortilla with miso-butter potatoes, a handful of cabbage, cilantro, scallion and sesame seeds. Serve with lime wedges.",
+      "durationSeconds": 240,
+      "ingredientIds": [
+        "i7",
+        "i8",
+        "i9",
+        "i10",
+        "i11"
+      ],
+      "imageQuery": "vegetable tacos plate"
+    }
+  ],
+  "createdAt": "2026-11-24T10:28:08.000Z",
+  "updatedAt": "2026-11-24T10:28:08.000Z"
+}

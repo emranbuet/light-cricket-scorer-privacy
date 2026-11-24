@@ -1,0 +1,186 @@
+{
+  "slug": "dan-dan-bolognese",
+  "title": "Dan Dan Bolognese",
+  "description": "A Sichuan dan dan meat sauce cooked like a weeknight Bolognese: browned pork, doubanjiang and sesame, tossed with pappardelle and finished with cucumber and peanuts.",
+  "cuisines": [
+    "Chinese",
+    "Italian"
+  ],
+  "servings": 4,
+  "prepMinutes": 15,
+  "cookMinutes": 30,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "pork",
+    "weeknight"
+  ],
+  "status": "published",
+  "imageQuery": "pork pasta chili oil",
+  "ingredients": [
+    {
+      "id": "i1",
+      "name": "Pappardelle",
+      "quantity": 400,
+      "unit": "g",
+      "note": "or tagliatelle"
+    },
+    {
+      "id": "i2",
+      "name": "Ground pork",
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "id": "i3",
+      "name": "Neutral oil",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": "i4",
+      "name": "Garlic",
+      "quantity": 3,
+      "note": "cloves, minced"
+    },
+    {
+      "id": "i5",
+      "name": "Fresh ginger",
+      "quantity": 1,
+      "unit": "tbsp",
+      "note": "minced"
+    },
+    {
+      "id": "i6",
+      "name": "Doubanjiang",
+      "quantity": 1.5,
+      "unit": "tbsp",
+      "note": "Pixian chili bean paste"
+    },
+    {
+      "id": "i7",
+      "name": "Soy sauce",
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "id": "i8",
+      "name": "Shaoxing wine",
+      "quantity": 1,
+      "unit": "tbsp",
+      "note": "or dry sherry"
+    },
+    {
+      "id": "i9",
+      "name": "Sesame paste",
+      "quantity": 2,
+      "unit": "tbsp",
+      "note": "or unsweetened tahini"
+    },
+    {
+      "id": "i10",
+      "name": "Chili oil",
+      "quantity": 1,
+      "unit": "tbsp",
+      "note": "plus more to serve"
+    },
+    {
+      "id": "i11",
+      "name": "Sichuan peppercorns",
+      "quantity": 1,
+      "unit": "tsp",
+      "note": "toasted and ground"
+    },
+    {
+      "id": "i12",
+      "name": "Chicken stock",
+      "quantity": 200,
+      "unit": "ml"
+    },
+    {
+      "id": "i13",
+      "name": "Cucumber",
+      "quantity": 0.5,
+      "note": "cut into thin matchsticks"
+    },
+    {
+      "id": "i14",
+      "name": "Roasted peanuts",
+      "quantity": 30,
+      "unit": "g",
+      "note": "roughly chopped"
+    },
+    {
+      "id": "i15",
+      "name": "Scallions",
+      "quantity": 3,
+      "note": "thinly sliced"
+    }
+  ],
+  "steps": [
+    {
+      "id": "s1",
+      "title": "Boil the pasta",
+      "instruction": "Bring a large pot of salted water to a boil and cook the pappardelle until just shy of al dente. Save a mug of pasta water, then drain.",
+      "durationSeconds": 600,
+      "ingredientIds": [
+        "i1"
+      ],
+      "imageQuery": "boiling pasta pot"
+    },
+    {
+      "id": "s2",
+      "title": "Brown the pork",
+      "instruction": "Heat the oil in a wide pan over medium-high heat. Add the pork, break it up, and cook until the moisture cooks off and the meat is browned in places, about 8 minutes.",
+      "durationSeconds": 480,
+      "ingredientIds": [
+        "i2",
+        "i3"
+      ],
+      "imageQuery": "browning ground pork pan"
+    },
+    {
+      "id": "s3",
+      "title": "Build the sauce",
+      "instruction": "Stir in the garlic, ginger and doubanjiang and cook for 1 minute until fragrant. Add the soy sauce and Shaoxing wine, then the sesame paste, chili oil, half the Sichuan pepper and the stock. Simmer 5 minutes until thick and glossy.",
+      "durationSeconds": 420,
+      "ingredientIds": [
+        "i4",
+        "i5",
+        "i6",
+        "i7",
+        "i8",
+        "i9",
+        "i10",
+        "i11",
+        "i12"
+      ],
+      "imageQuery": "chili bean paste cooking"
+    },
+    {
+      "id": "s4",
+      "title": "Toss with the pasta",
+      "instruction": "Add the drained pasta to the pan and toss over low heat, loosening with pasta water until every ribbon is coated.",
+      "durationSeconds": 120,
+      "ingredientIds": [
+        "i1"
+      ],
+      "imageQuery": "tossing pasta skillet"
+    },
+    {
+      "id": "s5",
+      "title": "Finish with crunch",
+      "instruction": "Divide into bowls and top with cucumber matchsticks, peanuts, scallion and the remaining Sichuan pepper. Add a little more chili oil if you like it hotter.",
+      "durationSeconds": 120,
+      "ingredientIds": [
+        "i13",
+        "i14",
+        "i15",
+        "i11"
+      ],
+      "imageQuery": "spicy noodle bowl peanuts"
+    }
+  ],
+  "createdAt": "2026-11-24T10:28:08.000Z",
+  "updatedAt": "2026-11-24T10:28:08.000Z"
+}
