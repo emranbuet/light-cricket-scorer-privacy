@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T10:40:05.227Z",
+  "generatedAt": "2026-11-24T10:31:31.885Z",
   "recipes": [
     {
       "slug": "kimchi-carbonara",
@@ -15,6 +15,66 @@
       "imagesReady": 5,
       "coverImage": "images/cover.jpg",
       "updatedAt": "2026-11-22T05:15:36.653Z"
+    },
+    {
+      "slug": "banh-mi-meatball-baguettes",
+      "title": "Banh Mi Meatball Baguettes",
+      "description": "Italian-style pork meatballs seasoned with fish sauce and lemongrass, stuffed into baguettes with Vietnamese pickled carrot and daikon, cilantro, chili and a swipe of mayo.",
+      "cuisines": [
+        "Vietnamese",
+        "Italian"
+      ],
+      "difficulty": "easy",
+      "totalMinutes": 45,
+      "stepCount": 5,
+      "imagesReady": 5,
+      "coverImage": "images/cover.jpg",
+      "updatedAt": "2026-11-24T10:28:08.000Z"
+    },
+    {
+      "slug": "dan-dan-bolognese",
+      "title": "Dan Dan Bolognese",
+      "description": "A Sichuan dan dan meat sauce cooked like a weeknight Bolognese: browned pork, doubanjiang and sesame, tossed with pappardelle and finished with cucumber and peanuts.",
+      "cuisines": [
+        "Chinese",
+        "Italian"
+      ],
+      "difficulty": "medium",
+      "totalMinutes": 45,
+      "stepCount": 5,
+      "imagesReady": 5,
+      "coverImage": "images/cover.jpg",
+      "updatedAt": "2026-11-24T10:28:08.000Z"
+    },
+    {
+      "slug": "miso-butter-tacos",
+      "title": "Miso Butter Tacos",
+      "description": "Japanese miso butter meets a Mexican taco night: roasted sweet potatoes glazed in salty-sweet miso butter, tucked into warm corn tortillas with lime cabbage.",
+      "cuisines": [
+        "Japanese",
+        "Mexican"
+      ],
+      "difficulty": "easy",
+      "totalMinutes": 40,
+      "stepCount": 5,
+      "imagesReady": 5,
+      "coverImage": "images/cover.jpg",
+      "updatedAt": "2026-11-24T10:28:08.000Z"
+    },
+    {
+      "slug": "tikka-masala-shepherds-pie",
+      "title": "Tikka Masala Shepherd's Pie",
+      "description": "A British shepherd's pie with an Indian tikka masala filling: spiced chicken simmered in a tomato-butter sauce, baked under a blanket of buttery mashed potatoes.",
+      "cuisines": [
+        "Indian",
+        "British"
+      ],
+      "difficulty": "medium",
+      "totalMinutes": 65,
+      "stepCount": 5,
+      "imagesReady": 5,
+      "coverImage": "images/cover.jpg",
+      "updatedAt": "2026-11-24T10:28:08.000Z"
     }
   ]
 }
