@@ -1,7 +1,7 @@
 {
   "cover": {
     "status": "ready",
-    "file": "images/cover.jpg",
+    "file": "images/cover-ai.jpg",
     "bytes": 75803,
     "width": 1000,
     "height": 563,
@@ -11,7 +11,7 @@
   },
   "s1": {
     "status": "ready",
-    "file": "images/s1.jpg",
+    "file": "images/s1-ai.jpg",
     "bytes": 50695,
     "width": 1000,
     "height": 563,
@@ -21,7 +21,7 @@
   },
   "s2": {
     "status": "ready",
-    "file": "images/s2.jpg",
+    "file": "images/s2-ai.jpg",
     "bytes": 59619,
     "width": 1000,
     "height": 563,
@@ -31,7 +31,7 @@
   },
   "s3": {
     "status": "ready",
-    "file": "images/s3.jpg",
+    "file": "images/s3-ai.jpg",
     "bytes": 58551,
     "width": 1000,
     "height": 563,
@@ -41,7 +41,7 @@
   },
   "s4": {
     "status": "ready",
-    "file": "images/s4.jpg",
+    "file": "images/s4-ai.jpg",
     "bytes": 52387,
     "width": 1000,
     "height": 563,
@@ -51,7 +51,7 @@
   },
   "s5": {
     "status": "ready",
-    "file": "images/s5.jpg",
+    "file": "images/s5-ai.jpg",
     "bytes": 65514,
     "width": 1000,
     "height": 563,
