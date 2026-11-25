@@ -4,7 +4,7 @@
 <style>body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.6;color:#222;max-width:720px;margin:0 auto;padding:24px 16px;}h1{font-size:1.6em;color:#1b5e20}h2{font-size:1.2em;margin-top:1.6em;color:#2e7d32}code{background:#f2f2f2;padding:1px 4px;border-radius:3px;word-break:break-all}a{color:#1565c0}</style>
 </head><body>
 <h1>Privacy Policy for InterviewPass</h1>
-<p><strong>Effective date:</strong> November 11, 2026</p>
+<p><strong>Effective date:</strong> November 25, 2026 (previous version: November 11, 2026)</p>
 <p>This privacy policy explains how the mobile app <strong>InterviewPass</strong> (package <code>com.techfinspecial.interviewpass</code>), developed by Emran Chowdhury, handles your information. InterviewPass rewrites your resume for a specific job and estimates how well it matches that job.</p>
 
 <h2>What we collect</h2>
@@ -21,12 +21,25 @@
 <h2>How we use it</h2>
 <p>Only to provide the service: to create and secure your account, generate, score, store, and deliver your resumes, send a password-reset code if you ask for one, and manage your purchases. We do not sell your data.</p>
 
-<h2>AI processing</h2>
-<p>Your resume text, the job description, and any formatting instructions are sent to Anthropic's Claude API to produce the tailored resume. If a PDF has little or no readable text (for example a scan), the PDF itself is sent to Anthropic to transcribe it. Anthropic processes this data on our behalf under its commercial API terms, which state that it does not use those inputs and outputs to train its models. You should review every generated resume before you send it; the ATS score is an estimate, not a guarantee of interviews or employment.</p>
+<h2>Third-party AI processing (Anthropic)</h2>
+<p>InterviewPass uses a third-party AI service, <strong>Anthropic, PBC</strong> (the Claude API), to read and rewrite your resume. Before anything is shared, the app shows a screen that explains what is sent, who receives it, and why, and asks for your permission. Nothing is sent to Anthropic unless you tap <strong>Agree and continue</strong>. If you tap <strong>Not now</strong>, nothing is sent and the resume is not generated. You can withdraw permission at any time under Account &gt; AI data sharing; after that, nothing is sent until you allow it again.</p>
+<p><strong>What data is shared.</strong> Only when you ask the app to optimize a resume, our server sends Anthropic:</p>
+<ul>
+<li>the text of the resume you upload, including any personal details written in it, such as your name, email address, phone number, location, links, work history, education, and skills;</li>
+<li>if a PDF has little or no readable text (for example a scan), the PDF file itself, so it can be transcribed;</li>
+<li>the job description you paste, or the text of the job page when you enter a job link; and</li>
+<li>any custom formatting instructions you write.</li>
+</ul>
+<p>Your account email address, password, purchase details, and account identifiers are not sent to Anthropic.</p>
+<p><strong>How it is collected.</strong> You provide this content directly in the app by choosing a resume file and pasting a job description or link. The app sends it over an encrypted (HTTPS) connection to our server, which extracts the text and forwards it to Anthropic over an encrypted connection. The app does not send it to Anthropic directly.</p>
+<p><strong>How it is used.</strong> Anthropic uses the data only to return the result to us: a transcription of a scanned resume, and a tailored resume with notes on matched and missing keywords. We use that result to score, store, and show your tailored resume. The data is not used for advertising, profiling, or sold.</p>
+<p><strong>Retention and training.</strong> Anthropic processes this data on our behalf under its Commercial Terms, which state that Anthropic may not train its models on customer content sent through its API. Under Anthropic's published retention policy for API customers, inputs and outputs are automatically deleted from Anthropic's systems within 30 days, except where longer retention is needed to enforce its Usage Policy or comply with the law. See Anthropic's <a href="https://www.anthropic.com/legal/commercial-terms">Commercial Terms</a> and <a href="https://privacy.claude.com/en/articles/7996866-how-long-do-you-store-my-organization-s-data">data retention policy</a>.</p>
+<p><strong>Same protection.</strong> We share this data only with Anthropic, which is bound by its terms to process it only to provide the service to us, to keep it confidential, and to protect it with security measures at least as protective as those described in this policy.</p>
+<p>You should review every generated resume before you send it; the ATS score is an estimate, not a guarantee of interviews or employment.</p>
 
 <h2>Service providers</h2>
 <ul>
-<li><strong>Anthropic</strong> — AI processing, as described above.</li>
+<li><strong>Anthropic</strong> — AI processing of your resume and job description, only with your permission, as described above.</li>
 <li><strong>RevenueCat</strong> — purchase status and entitlement management. RevenueCat receives your app user ID and purchase information from Apple or Google.</li>
 <li><strong>Resend</strong> — password-reset email. If you request a reset, we send your email address and a one-time code to Resend so the message can be delivered. Codes expire in 15 minutes.</li>
 <li><strong>Apple and Google</strong> — payment processing for in-app purchases, under their policies.</li>
